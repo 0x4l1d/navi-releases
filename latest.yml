@@ -1,8 +1,8 @@
-version: 1.0.2
+version: 1.1.0
 files:
-  - url: https://github.com/0x4l1d/navi-releases/releases/download/v1.0.2/Navi-Setup-1.0.2.exe
-    sha512: T9EO/YwXemQx4xDvEUFqnsgQbkKrITHv7WzQ3YvjfNvTWfTjCfO/k3k8NbLGEsl4q/hnqLvCtrAF+UZLK/gi0g==
-    size: 145846669
-path: https://github.com/0x4l1d/navi-releases/releases/download/v1.0.2/Navi-Setup-1.0.2.exe
-sha512: T9EO/YwXemQx4xDvEUFqnsgQbkKrITHv7WzQ3YvjfNvTWfTjCfO/k3k8NbLGEsl4q/hnqLvCtrAF+UZLK/gi0g==
-releaseDate: '2026-10-08T13:33:26.301Z'
+  - url: https://github.com/0x4l1d/navi-releases/releases/download/v1.1.0/Navi-Setup-1.1.0.exe
+    sha512: fJPYIrDJt03yO6AWvEyE2NvvzQ06fkXJMt49185P13bugQ3QF19Ww/qBE5/F4HPLwPvuQr3HcPangbJ5BRmfng==
+    size: 146913854
+path: https://github.com/0x4l1d/navi-releases/releases/download/v1.1.0/Navi-Setup-1.1.0.exe
+sha512: fJPYIrDJt03yO6AWvEyE2NvvzQ06fkXJMt49185P13bugQ3QF19Ww/qBE5/F4HPLwPvuQr3HcPangbJ5BRmfng==
+releaseDate: '2026-10-14T02:16:53.691Z'

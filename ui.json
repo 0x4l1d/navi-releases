@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "minApp": "1.0.2",
-  "url": "https://github.com/0x4l1d/navi-releases/releases/download/v1.0.2/ui-1.0.2.asar",
-  "sha512": "omHazuP6Mlc3++3lA4LB0yXBZY07fBWzEqmOdOowMarW/z53VfmgBdshgKbWUjgIHcfYQ/ayorEl4TjZ/CH/YQ==",
-  "size": 22266140
+  "version": "1.1.0",
+  "minApp": "1.1.0",
+  "url": "https://github.com/0x4l1d/navi-releases/releases/download/v1.1.0/ui-1.1.0.asar",
+  "sha512": "prhFw0xcHgE320vyjE6PYSKtHZrQrKMaBJcXasggNbBjLP7aZPKyyq9VpSikjxuH/T9UZIWt2XemupPpQrh4Rw==",
+  "size": 22816930
 }
